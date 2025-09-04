@@ -1,0 +1,4 @@
+repository "Rumikub_Refine@ppppp1022@cloud"
+  path "/"
+    br "/main"
+    co "/main"
